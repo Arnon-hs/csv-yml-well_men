@@ -1,0 +1,12 @@
+{
+    "name": "vasili/test",
+    "authors": [
+        {
+            "name": "Vasily",
+            "email": "vasya09082001@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^5.0"
+    }
+}
